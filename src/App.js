@@ -36,7 +36,7 @@ function App() {
     pauseOnHover
     theme='dark'
     />
-    {/* Same as */}
+    
 <ToastContainer />
    </>
   );
